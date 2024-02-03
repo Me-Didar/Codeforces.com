@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeForce.Com\\CodeForcesAssignment\\Football\\Football.csproj": {}
+    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Football\\Football.csproj": {}
   },
   "projects": {
-    "D:\\CodeForce.Com\\CodeForcesAssignment\\Football\\Football.csproj": {
+    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Football\\Football.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeForce.Com\\CodeForcesAssignment\\Football\\Football.csproj",
+        "projectUniqueName": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Football\\Football.csproj",
         "projectName": "Football",
-        "projectPath": "D:\\CodeForce.Com\\CodeForcesAssignment\\Football\\Football.csproj",
+        "projectPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Football\\Football.csproj",
         "packagesPath": "C:\\Users\\ITWALA\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeForce.Com\\CodeForcesAssignment\\Football\\obj\\",
+        "outputPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Football\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

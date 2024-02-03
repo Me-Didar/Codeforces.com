@@ -1,0 +1,15 @@
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\bin\Debug\net5.0\PetyaAndStrings.exe
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\bin\Debug\net5.0\PetyaAndStrings.deps.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\bin\Debug\net5.0\PetyaAndStrings.runtimeconfig.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\bin\Debug\net5.0\PetyaAndStrings.runtimeconfig.dev.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\bin\Debug\net5.0\PetyaAndStrings.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\bin\Debug\net5.0\ref\PetyaAndStrings.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\bin\Debug\net5.0\PetyaAndStrings.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\PetyaAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\PetyaAndStrings.AssemblyInfoInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\PetyaAndStrings.AssemblyInfo.cs
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\PetyaAndStrings.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\PetyaAndStrings.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\ref\PetyaAndStrings.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\PetyaAndStrings.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\PetyaAndStrings\obj\Debug\net5.0\PetyaAndStrings.genruntimeconfig.cache

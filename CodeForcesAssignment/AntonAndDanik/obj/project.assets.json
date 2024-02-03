@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeForce.Com\\CodeForcesAssignment\\AntonAndDanik\\AntonAndDanik.csproj",
+      "projectUniqueName": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\AntonAndDanik\\AntonAndDanik.csproj",
       "projectName": "AntonAndDanik",
-      "projectPath": "D:\\CodeForce.Com\\CodeForcesAssignment\\AntonAndDanik\\AntonAndDanik.csproj",
+      "projectPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\AntonAndDanik\\AntonAndDanik.csproj",
       "packagesPath": "C:\\Users\\ITWALA\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeForce.Com\\CodeForcesAssignment\\AntonAndDanik\\obj\\",
+      "outputPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\AntonAndDanik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
