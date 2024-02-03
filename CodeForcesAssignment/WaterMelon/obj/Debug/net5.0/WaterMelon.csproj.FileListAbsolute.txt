@@ -1,0 +1,16 @@
+D:\Codeforces\CodeForcesAssignment\WaterMelon\bin\Debug\net5.0\WaterMelon.exe
+D:\Codeforces\CodeForcesAssignment\WaterMelon\bin\Debug\net5.0\WaterMelon.deps.json
+D:\Codeforces\CodeForcesAssignment\WaterMelon\bin\Debug\net5.0\WaterMelon.runtimeconfig.json
+D:\Codeforces\CodeForcesAssignment\WaterMelon\bin\Debug\net5.0\WaterMelon.runtimeconfig.dev.json
+D:\Codeforces\CodeForcesAssignment\WaterMelon\bin\Debug\net5.0\WaterMelon.dll
+D:\Codeforces\CodeForcesAssignment\WaterMelon\bin\Debug\net5.0\ref\WaterMelon.dll
+D:\Codeforces\CodeForcesAssignment\WaterMelon\bin\Debug\net5.0\WaterMelon.pdb
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.csproj.AssemblyReference.cache
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.AssemblyInfoInputs.cache
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.AssemblyInfo.cs
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.csproj.CoreCompileInputs.cache
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.dll
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\ref\WaterMelon.dll
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.pdb
+D:\Codeforces\CodeForcesAssignment\WaterMelon\obj\Debug\net5.0\WaterMelon.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\bin\Debug\net5.0\WayTooLongWords.exe
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\bin\Debug\net5.0\WayTooLongWords.deps.json
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\bin\Debug\net5.0\WayTooLongWords.runtimeconfig.json
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\bin\Debug\net5.0\WayTooLongWords.runtimeconfig.dev.json
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\bin\Debug\net5.0\WayTooLongWords.dll
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\bin\Debug\net5.0\ref\WayTooLongWords.dll
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\bin\Debug\net5.0\WayTooLongWords.pdb
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.csproj.AssemblyReference.cache
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.AssemblyInfoInputs.cache
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.AssemblyInfo.cs
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.dll
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\ref\WayTooLongWords.dll
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.pdb
+D:\CodeForce.Com\CodeForcesAssignment\WayTooLongWords\obj\Debug\net5.0\WayTooLongWords.genruntimeconfig.cache

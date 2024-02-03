@@ -1,0 +1,16 @@
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\bin\Debug\net5.0\AntonAndDanik.exe
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\bin\Debug\net5.0\AntonAndDanik.deps.json
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\bin\Debug\net5.0\AntonAndDanik.runtimeconfig.json
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\bin\Debug\net5.0\AntonAndDanik.runtimeconfig.dev.json
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\bin\Debug\net5.0\AntonAndDanik.dll
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\bin\Debug\net5.0\ref\AntonAndDanik.dll
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\bin\Debug\net5.0\AntonAndDanik.pdb
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.csproj.AssemblyReference.cache
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.AssemblyInfoInputs.cache
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.AssemblyInfo.cs
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.dll
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\ref\AntonAndDanik.dll
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.pdb
+D:\CodeForce.Com\CodeForcesAssignment\AntonAndDanik\obj\Debug\net5.0\AntonAndDanik.genruntimeconfig.cache

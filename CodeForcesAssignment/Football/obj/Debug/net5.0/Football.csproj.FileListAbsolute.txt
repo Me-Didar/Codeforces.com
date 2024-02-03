@@ -1,0 +1,16 @@
+D:\Codeforces\CodeForcesAssignment\Football\bin\Debug\net5.0\Football.exe
+D:\Codeforces\CodeForcesAssignment\Football\bin\Debug\net5.0\Football.deps.json
+D:\Codeforces\CodeForcesAssignment\Football\bin\Debug\net5.0\Football.runtimeconfig.json
+D:\Codeforces\CodeForcesAssignment\Football\bin\Debug\net5.0\Football.runtimeconfig.dev.json
+D:\Codeforces\CodeForcesAssignment\Football\bin\Debug\net5.0\Football.dll
+D:\Codeforces\CodeForcesAssignment\Football\bin\Debug\net5.0\ref\Football.dll
+D:\Codeforces\CodeForcesAssignment\Football\bin\Debug\net5.0\Football.pdb
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.csproj.AssemblyReference.cache
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.AssemblyInfoInputs.cache
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.AssemblyInfo.cs
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.csproj.CoreCompileInputs.cache
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.dll
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\ref\Football.dll
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.pdb
+D:\Codeforces\CodeForcesAssignment\Football\obj\Debug\net5.0\Football.genruntimeconfig.cache

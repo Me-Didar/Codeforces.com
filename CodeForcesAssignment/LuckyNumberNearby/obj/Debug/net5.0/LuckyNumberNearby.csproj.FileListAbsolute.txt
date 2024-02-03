@@ -1,0 +1,15 @@
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\bin\Debug\net5.0\LuckyNumberNearby.exe
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\bin\Debug\net5.0\LuckyNumberNearby.deps.json
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\bin\Debug\net5.0\LuckyNumberNearby.runtimeconfig.json
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\bin\Debug\net5.0\LuckyNumberNearby.runtimeconfig.dev.json
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\bin\Debug\net5.0\LuckyNumberNearby.dll
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\bin\Debug\net5.0\ref\LuckyNumberNearby.dll
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\bin\Debug\net5.0\LuckyNumberNearby.pdb
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\LuckyNumberNearby.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\LuckyNumberNearby.AssemblyInfoInputs.cache
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\LuckyNumberNearby.AssemblyInfo.cs
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\LuckyNumberNearby.csproj.CoreCompileInputs.cache
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\LuckyNumberNearby.dll
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\ref\LuckyNumberNearby.dll
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\LuckyNumberNearby.pdb
+D:\Codeforces\CodeForcesAssignment\LuckyNumberNearby\obj\Debug\net5.0\LuckyNumberNearby.genruntimeconfig.cache

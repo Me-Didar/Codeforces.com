@@ -1,0 +1,15 @@
+D:\Codeforces\CodeForcesAssignment\StringTask\bin\Debug\net5.0\StringTask.exe
+D:\Codeforces\CodeForcesAssignment\StringTask\bin\Debug\net5.0\StringTask.deps.json
+D:\Codeforces\CodeForcesAssignment\StringTask\bin\Debug\net5.0\StringTask.runtimeconfig.json
+D:\Codeforces\CodeForcesAssignment\StringTask\bin\Debug\net5.0\StringTask.runtimeconfig.dev.json
+D:\Codeforces\CodeForcesAssignment\StringTask\bin\Debug\net5.0\StringTask.dll
+D:\Codeforces\CodeForcesAssignment\StringTask\bin\Debug\net5.0\ref\StringTask.dll
+D:\Codeforces\CodeForcesAssignment\StringTask\bin\Debug\net5.0\StringTask.pdb
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\StringTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\StringTask.AssemblyInfoInputs.cache
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\StringTask.AssemblyInfo.cs
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\StringTask.csproj.CoreCompileInputs.cache
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\StringTask.dll
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\ref\StringTask.dll
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\StringTask.pdb
+D:\Codeforces\CodeForcesAssignment\StringTask\obj\Debug\net5.0\StringTask.genruntimeconfig.cache
