@@ -1,0 +1,16 @@
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\bin\Debug\net5.0\Pangram.exe
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\bin\Debug\net5.0\Pangram.deps.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\bin\Debug\net5.0\Pangram.runtimeconfig.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\bin\Debug\net5.0\Pangram.runtimeconfig.dev.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\bin\Debug\net5.0\Pangram.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\bin\Debug\net5.0\ref\Pangram.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\bin\Debug\net5.0\Pangram.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.AssemblyInfoInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.AssemblyInfo.cs
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.csproj.CoreCompileInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\ref\Pangram.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.genruntimeconfig.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Pangram\obj\Debug\net5.0\Pangram.csproj.AssemblyReference.cache

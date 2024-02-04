@@ -1,0 +1,15 @@
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\bin\Debug\net5.0\Word.exe
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\bin\Debug\net5.0\Word.deps.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\bin\Debug\net5.0\Word.runtimeconfig.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\bin\Debug\net5.0\Word.runtimeconfig.dev.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\bin\Debug\net5.0\Word.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\bin\Debug\net5.0\ref\Word.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\bin\Debug\net5.0\Word.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\Word.AssemblyInfoInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\Word.AssemblyInfo.cs
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\Word.csproj.CoreCompileInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\Word.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\ref\Word.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\Word.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Word\obj\Debug\net5.0\Word.genruntimeconfig.cache
