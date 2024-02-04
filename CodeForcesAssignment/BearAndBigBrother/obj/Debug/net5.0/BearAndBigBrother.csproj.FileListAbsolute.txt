@@ -1,0 +1,15 @@
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.AssemblyInfoInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.AssemblyInfo.cs
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.exe
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.deps.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.runtimeconfig.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.runtimeconfig.dev.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\bin\Debug\net5.0\ref\BearAndBigBrother.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\ref\BearAndBigBrother.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.genruntimeconfig.cache
