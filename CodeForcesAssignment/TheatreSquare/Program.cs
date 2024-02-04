@@ -7,17 +7,19 @@ namespace TheatreSquare
         static void Main(string[] args)
         {
             //------- Ekti  Squre Theater ke  koto stone(squre) diye sajano jabe
+            //------------ 6
+            //------------ 
             var line = Console.ReadLine().Split(" ");
-            var m = long.Parse(line[0]);
-            var n = long.Parse(line[1]);
-            var a = long.Parse(line[2]);
+            int m = int.Parse(line[0]);
+            int n = int.Parse(line[1]);
+            int a = int.Parse(line[2]);
 
-            var x = 0L;
-            var y = 0L;
+            decimal x = 0;
+            decimal y = 0;
 
-            if (m % a == 0)
+            if (m % a == 0) //----------- Check Fraction
             {
-                x = m / a;
+                x = m / a; 
             }
             else
             {

@@ -1,0 +1,16 @@
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\bin\Debug\net5.0\Bit.exe
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\bin\Debug\net5.0\Bit.deps.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\bin\Debug\net5.0\Bit.runtimeconfig.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\bin\Debug\net5.0\Bit.runtimeconfig.dev.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\bin\Debug\net5.0\Bit.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\bin\Debug\net5.0\ref\Bit.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\bin\Debug\net5.0\Bit.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.csproj.AssemblyReference.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.AssemblyInfoInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.AssemblyInfo.cs
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\ref\Bit.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Bit\obj\Debug\net5.0\Bit.genruntimeconfig.cache

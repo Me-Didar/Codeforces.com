@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team", "Team\Team.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatreSquare", "TheatreSquare\TheatreSquare.csproj", "{0ACED998-CFE4-43AC-8E13-45B5CD85D55D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit", "Bit\Bit.csproj", "{DAAAFA71-193A-40C9-BCAA-71847A47196B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0ACED998-CFE4-43AC-8E13-45B5CD85D55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ACED998-CFE4-43AC-8E13-45B5CD85D55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ACED998-CFE4-43AC-8E13-45B5CD85D55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAAFA71-193A-40C9-BCAA-71847A47196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAAFA71-193A-40C9-BCAA-71847A47196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAAFA71-193A-40C9-BCAA-71847A47196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAAFA71-193A-40C9-BCAA-71847A47196B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
