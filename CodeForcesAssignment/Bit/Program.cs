@@ -6,24 +6,24 @@ namespace Bit
     {
         static void Main(string[] args)
         {
-            int n, x = 0;
-            n = int.Parse(Console.ReadLine());
+            int operations, Result = 0;
+            operations = int.Parse(Console.ReadLine());
 
-            while (n > 0)
+            while (operations > 0)
             {
                 string s = Console.ReadLine();
                 if (s[1] == '+')
                 {
-                    x++;
+                    Result++;
                 }
                 else
                 {
-                    x--;
+                    Result--;
                 }
-                n--;
+                operations--;
             }
 
-            Console.WriteLine(x);
+            Console.WriteLine(Result);
         }
     }
 }

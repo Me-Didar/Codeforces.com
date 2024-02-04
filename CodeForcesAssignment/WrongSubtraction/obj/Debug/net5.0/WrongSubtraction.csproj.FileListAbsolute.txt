@@ -1,0 +1,16 @@
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\bin\Debug\net5.0\WrongSubtraction.exe
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\bin\Debug\net5.0\WrongSubtraction.deps.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\bin\Debug\net5.0\WrongSubtraction.runtimeconfig.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\bin\Debug\net5.0\WrongSubtraction.runtimeconfig.dev.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\bin\Debug\net5.0\WrongSubtraction.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\bin\Debug\net5.0\ref\WrongSubtraction.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\bin\Debug\net5.0\WrongSubtraction.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.csproj.AssemblyReference.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.AssemblyInfoInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.AssemblyInfo.cs
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\ref\WrongSubtraction.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\WrongSubtraction\obj\Debug\net5.0\WrongSubtraction.genruntimeconfig.cache

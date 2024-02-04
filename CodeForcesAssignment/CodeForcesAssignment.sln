@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatreSquare", "TheatreSqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit", "Bit\Bit.csproj", "{DAAAFA71-193A-40C9-BCAA-71847A47196B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrongSubtraction", "WrongSubtraction\WrongSubtraction.csproj", "{53F8E750-F39A-4F99-9885-9A34D4D56312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{DAAAFA71-193A-40C9-BCAA-71847A47196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAAAFA71-193A-40C9-BCAA-71847A47196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAAAFA71-193A-40C9-BCAA-71847A47196B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F8E750-F39A-4F99-9885-9A34D4D56312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F8E750-F39A-4F99-9885-9A34D4D56312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F8E750-F39A-4F99-9885-9A34D4D56312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F8E750-F39A-4F99-9885-9A34D4D56312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
