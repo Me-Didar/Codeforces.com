@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj": {}
+    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj": {}
   },
   "projects": {
-    "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj": {
+    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj",
+        "projectUniqueName": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj",
         "projectName": "WordCapitalization",
-        "projectPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj",
-        "packagesPath": "C:\\Users\\didarul.islam\\.nuget\\packages\\",
-        "outputPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\obj\\",
+        "projectPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\WordCapitalization.csproj",
+        "packagesPath": "C:\\Users\\ITWALA\\.nuget\\packages\\",
+        "outputPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\WordCapitalization\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\didarul.islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ITWALA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

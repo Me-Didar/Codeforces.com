@@ -1,0 +1,15 @@
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\bin\Debug\net5.0\InSearchofanEasyProblem.exe
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\bin\Debug\net5.0\InSearchofanEasyProblem.deps.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\bin\Debug\net5.0\InSearchofanEasyProblem.runtimeconfig.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\bin\Debug\net5.0\InSearchofanEasyProblem.runtimeconfig.dev.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\bin\Debug\net5.0\InSearchofanEasyProblem.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\bin\Debug\net5.0\ref\InSearchofanEasyProblem.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\bin\Debug\net5.0\InSearchofanEasyProblem.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\InSearchofanEasyProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\InSearchofanEasyProblem.AssemblyInfoInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\InSearchofanEasyProblem.AssemblyInfo.cs
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\InSearchofanEasyProblem.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\InSearchofanEasyProblem.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\ref\InSearchofanEasyProblem.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\InSearchofanEasyProblem.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\InSearchofanEasyProblem\obj\Debug\net5.0\InSearchofanEasyProblem.genruntimeconfig.cache

@@ -21,11 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WayTooLongWords", "WayTooLo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetyaAndStrings", "PetyaAndStrings\PetyaAndStrings.csproj", "{6035204C-B2A3-4A52-B495-8D440A10C9CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InSearchofanEasyProblem", "InSearchofanEasyProblem\InSearchofanEasyProblem.csproj", "{43797A93-5234-433E-8749-B78E98EAB8A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Word", "Word\Word.csproj", "{0BD49E8B-394E-463F-967E-0EFF04B708B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word", "Word\Word.csproj", "{0BD49E8B-394E-463F-967E-0EFF04B708B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangram", "Pangram\Pangram.csproj", "{6832C52F-D579-41F6-818B-46E6A9C11DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangram", "Pangram\Pangram.csproj", "{6832C52F-D579-41F6-818B-46E6A9C11DAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InSearchofanEasyProblem", "InSearchofanEasyProblem\InSearchofanEasyProblem.csproj", "{15F9CCA0-180A-4255-A2C7-B3BFBDBFFB4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,10 +69,6 @@ Global
 		{6035204C-B2A3-4A52-B495-8D440A10C9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6035204C-B2A3-4A52-B495-8D440A10C9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6035204C-B2A3-4A52-B495-8D440A10C9CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{43797A93-5234-433E-8749-B78E98EAB8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43797A93-5234-433E-8749-B78E98EAB8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43797A93-5234-433E-8749-B78E98EAB8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43797A93-5234-433E-8749-B78E98EAB8A7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0BD49E8B-394E-463F-967E-0EFF04B708B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0BD49E8B-394E-463F-967E-0EFF04B708B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BD49E8B-394E-463F-967E-0EFF04B708B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -81,6 +77,10 @@ Global
 		{6832C52F-D579-41F6-818B-46E6A9C11DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6832C52F-D579-41F6-818B-46E6A9C11DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6832C52F-D579-41F6-818B-46E6A9C11DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F9CCA0-180A-4255-A2C7-B3BFBDBFFB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F9CCA0-180A-4255-A2C7-B3BFBDBFFB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F9CCA0-180A-4255-A2C7-B3BFBDBFFB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F9CCA0-180A-4255-A2C7-B3BFBDBFFB4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

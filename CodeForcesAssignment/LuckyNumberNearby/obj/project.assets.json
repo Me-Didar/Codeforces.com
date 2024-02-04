@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\didarul.islam\\.nuget\\packages\\": {}
+    "C:\\Users\\ITWALA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\LuckyNumberNearby\\LuckyNumberNearby.csproj",
+      "projectUniqueName": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\LuckyNumberNearby\\LuckyNumberNearby.csproj",
       "projectName": "LuckyNumberNearby",
-      "projectPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\LuckyNumberNearby\\LuckyNumberNearby.csproj",
-      "packagesPath": "C:\\Users\\didarul.islam\\.nuget\\packages\\",
-      "outputPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\LuckyNumberNearby\\obj\\",
+      "projectPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\LuckyNumberNearby\\LuckyNumberNearby.csproj",
+      "packagesPath": "C:\\Users\\ITWALA\\.nuget\\packages\\",
+      "outputPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\LuckyNumberNearby\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\didarul.islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ITWALA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
