@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit", "Bit\Bit.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrongSubtraction", "WrongSubtraction\WrongSubtraction.csproj", "{53F8E750-F39A-4F99-9885-9A34D4D56312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation", "Translation\Translation.csproj", "{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{53F8E750-F39A-4F99-9885-9A34D4D56312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F8E750-F39A-4F99-9885-9A34D4D56312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F8E750-F39A-4F99-9885-9A34D4D56312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

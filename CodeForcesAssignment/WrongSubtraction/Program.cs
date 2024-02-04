@@ -8,7 +8,7 @@ namespace WrongSubtraction
         {
             int n = 0, a = 0, r, i;         
             string[] input = Console.ReadLine().Split();
-            n = Convert.ToInt32(input[0]);//---------- How many Times Tania want to Loop
+            n = Convert.ToInt32(input[0]);//---------- Value
             a = Convert.ToInt32(input[1]);//---------- How many Times Tania want to Loop
             //---512→511→510→51→50
             for (i = 1; i <= a; i++)

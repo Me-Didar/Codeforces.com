@@ -1,0 +1,16 @@
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\bin\Debug\net5.0\Translation.exe
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\bin\Debug\net5.0\Translation.deps.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\bin\Debug\net5.0\Translation.runtimeconfig.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\bin\Debug\net5.0\Translation.runtimeconfig.dev.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\bin\Debug\net5.0\Translation.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\bin\Debug\net5.0\ref\Translation.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\bin\Debug\net5.0\Translation.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.csproj.AssemblyReference.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.AssemblyInfoInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.AssemblyInfo.cs
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\ref\Translation.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Translation\obj\Debug\net5.0\Translation.genruntimeconfig.cache
