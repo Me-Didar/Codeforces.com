@@ -1,0 +1,16 @@
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\bin\Debug\net5.0\Elephant.exe
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\bin\Debug\net5.0\Elephant.deps.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\bin\Debug\net5.0\Elephant.runtimeconfig.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\bin\Debug\net5.0\Elephant.runtimeconfig.dev.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\bin\Debug\net5.0\Elephant.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\bin\Debug\net5.0\ref\Elephant.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\bin\Debug\net5.0\Elephant.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.csproj.AssemblyReference.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.AssemblyInfoInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.AssemblyInfo.cs
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.csproj.CoreCompileInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\ref\Elephant.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\Elephant\obj\Debug\net5.0\Elephant.genruntimeconfig.cache

@@ -25,19 +25,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Word", "Word\Word.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangram", "Pangram\Pangram.csproj", "{6832C52F-D579-41F6-818B-46E6A9C11DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InSearchofanEasyProblem", "InSearchofanEasyProblem\InSearchofanEasyProblem.csproj", "{15F9CCA0-180A-4255-A2C7-B3BFBDBFFB4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InSearchofanEasyProblem", "InSearchofanEasyProblem\InSearchofanEasyProblem.csproj", "{15F9CCA0-180A-4255-A2C7-B3BFBDBFFB4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearAndBigBrother", "BearAndBigBrother\BearAndBigBrother.csproj", "{D02057E7-516C-4779-BCDA-565543825CBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BearAndBigBrother", "BearAndBigBrother\BearAndBigBrother.csproj", "{D02057E7-516C-4779-BCDA-565543825CBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team", "Team\Team.csproj", "{2DAA3F9F-CDF6-440D-8290-D2CFAEB86760}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Team", "Team\Team.csproj", "{2DAA3F9F-CDF6-440D-8290-D2CFAEB86760}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatreSquare", "TheatreSquare\TheatreSquare.csproj", "{0ACED998-CFE4-43AC-8E13-45B5CD85D55D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheatreSquare", "TheatreSquare\TheatreSquare.csproj", "{0ACED998-CFE4-43AC-8E13-45B5CD85D55D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit", "Bit\Bit.csproj", "{DAAAFA71-193A-40C9-BCAA-71847A47196B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit", "Bit\Bit.csproj", "{DAAAFA71-193A-40C9-BCAA-71847A47196B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrongSubtraction", "WrongSubtraction\WrongSubtraction.csproj", "{53F8E750-F39A-4F99-9885-9A34D4D56312}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrongSubtraction", "WrongSubtraction\WrongSubtraction.csproj", "{53F8E750-F39A-4F99-9885-9A34D4D56312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation", "Translation\Translation.csproj", "{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Translation", "Translation\Translation.csproj", "{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elephant", "Elephant\Elephant.csproj", "{C9C4BC2A-EEC3-4A2C-AF6B-AB9560D24C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C4BC2A-EEC3-4A2C-AF6B-AB9560D24C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C4BC2A-EEC3-4A2C-AF6B-AB9560D24C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C4BC2A-EEC3-4A2C-AF6B-AB9560D24C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C4BC2A-EEC3-4A2C-AF6B-AB9560D24C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
