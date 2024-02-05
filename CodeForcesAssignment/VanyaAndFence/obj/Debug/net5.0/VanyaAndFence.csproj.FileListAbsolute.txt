@@ -1,0 +1,15 @@
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\bin\Debug\net5.0\VanyaAndFence.exe
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\bin\Debug\net5.0\VanyaAndFence.deps.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\bin\Debug\net5.0\VanyaAndFence.runtimeconfig.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\bin\Debug\net5.0\VanyaAndFence.runtimeconfig.dev.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\bin\Debug\net5.0\VanyaAndFence.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\bin\Debug\net5.0\ref\VanyaAndFence.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\bin\Debug\net5.0\VanyaAndFence.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\VanyaAndFence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\VanyaAndFence.AssemblyInfoInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\VanyaAndFence.AssemblyInfo.cs
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\VanyaAndFence.csproj.CoreCompileInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\VanyaAndFence.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\ref\VanyaAndFence.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\VanyaAndFence.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\VanyaAndFence\obj\Debug\net5.0\VanyaAndFence.genruntimeconfig.cache

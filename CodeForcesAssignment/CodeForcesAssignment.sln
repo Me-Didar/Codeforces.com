@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elephant", "Elephant\Elepha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanyaAndFence", "VanyaAndFence\VanyaAndFence.csproj", "{B328EF2B-5968-4EB7-B228-8DC3CD923F85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B328EF2B-5968-4EB7-B228-8DC3CD923F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B328EF2B-5968-4EB7-B228-8DC3CD923F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B328EF2B-5968-4EB7-B228-8DC3CD923F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B328EF2B-5968-4EB7-B228-8DC3CD923F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
