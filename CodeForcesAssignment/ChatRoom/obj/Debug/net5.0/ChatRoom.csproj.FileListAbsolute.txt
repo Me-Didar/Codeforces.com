@@ -1,0 +1,16 @@
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\bin\Debug\net5.0\ChatRoom.exe
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\bin\Debug\net5.0\ChatRoom.deps.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\bin\Debug\net5.0\ChatRoom.runtimeconfig.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\bin\Debug\net5.0\ChatRoom.runtimeconfig.dev.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\bin\Debug\net5.0\ChatRoom.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\bin\Debug\net5.0\ref\ChatRoom.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\bin\Debug\net5.0\ChatRoom.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.AssemblyInfoInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.AssemblyInfo.cs
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.csproj.CoreCompileInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ref\ChatRoom.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.genruntimeconfig.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\ChatRoom\obj\Debug\net5.0\ChatRoom.csproj.AssemblyReference.cache
