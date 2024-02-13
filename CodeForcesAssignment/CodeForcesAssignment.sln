@@ -39,11 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrongSubtraction", "WrongSu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Translation", "Translation\Translation.csproj", "{AE5C045A-B84C-4DC9-80C5-3EF8607DD3DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elephant", "Elephant\Elephant.csproj", "{C9C4BC2A-EEC3-4A2C-AF6B-AB9560D24C17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elephant", "Elephant\Elephant.csproj", "{C9C4BC2A-EEC3-4A2C-AF6B-AB9560D24C17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{90268CE0-6320-4C4B-A4E3-F2DD8E9BEFB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanyaAndFence", "VanyaAndFence\VanyaAndFence.csproj", "{B328EF2B-5968-4EB7-B228-8DC3CD923F85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanyaAndFence", "VanyaAndFence\VanyaAndFence.csproj", "{B328EF2B-5968-4EB7-B228-8DC3CD923F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magnets", "Magnets\Magnets.csproj", "{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{B328EF2B-5968-4EB7-B228-8DC3CD923F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B328EF2B-5968-4EB7-B228-8DC3CD923F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B328EF2B-5968-4EB7-B228-8DC3CD923F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

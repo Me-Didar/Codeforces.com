@@ -1,0 +1,16 @@
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\bin\Debug\net5.0\Magnets.exe
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\bin\Debug\net5.0\Magnets.deps.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\bin\Debug\net5.0\Magnets.runtimeconfig.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\bin\Debug\net5.0\Magnets.runtimeconfig.dev.json
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\bin\Debug\net5.0\Magnets.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\bin\Debug\net5.0\ref\Magnets.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\bin\Debug\net5.0\Magnets.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.csproj.AssemblyReference.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.AssemblyInfoInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.AssemblyInfo.cs
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.csproj.CoreCompileInputs.cache
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\ref\Magnets.dll
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.pdb
+D:\CodeForce.Com\Codeforces.com\CodeForcesAssignment\Magnets\obj\Debug\net5.0\Magnets.genruntimeconfig.cache
