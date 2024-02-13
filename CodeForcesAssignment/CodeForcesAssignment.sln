@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanyaAndFence", "VanyaAndFe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magnets", "Magnets\Magnets.csproj", "{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulMatrix", "BeautifulMatrix\BeautifulMatrix.csproj", "{2C10D689-89A6-416E-9323-365041C055BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{681FA8F8-9640-42E5-8BEB-0DC9B94090FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C10D689-89A6-416E-9323-365041C055BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C10D689-89A6-416E-9323-365041C055BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C10D689-89A6-416E-9323-365041C055BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C10D689-89A6-416E-9323-365041C055BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
