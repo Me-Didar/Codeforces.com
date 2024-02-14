@@ -24,7 +24,6 @@ namespace BeautifulMatrix
                 }
                 if (shouldBreak)
                 {
-                    // Break from the outer loop
                     break;
                 }
             }    
