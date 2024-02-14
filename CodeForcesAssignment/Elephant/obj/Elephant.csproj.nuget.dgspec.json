@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj": {}
+    "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj": {}
   },
   "projects": {
-    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj": {
+    "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj",
+        "projectUniqueName": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj",
         "projectName": "Elephant",
-        "projectPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj",
-        "packagesPath": "C:\\Users\\ITWALA\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\Elephant\\obj\\",
+        "projectPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\Elephant\\Elephant.csproj",
+        "packagesPath": "C:\\Users\\didarul.islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\Elephant\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ITWALA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\didarul.islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

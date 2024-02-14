@@ -1,0 +1,16 @@
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\bin\Debug\net5.0\BeautifulMatrix.exe
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\bin\Debug\net5.0\BeautifulMatrix.deps.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\bin\Debug\net5.0\BeautifulMatrix.runtimeconfig.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\bin\Debug\net5.0\BeautifulMatrix.runtimeconfig.dev.json
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\bin\Debug\net5.0\BeautifulMatrix.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\bin\Debug\net5.0\ref\BeautifulMatrix.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\bin\Debug\net5.0\BeautifulMatrix.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.csproj.AssemblyReference.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.AssemblyInfoInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.AssemblyInfo.cs
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.csproj.CoreCompileInputs.cache
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\ref\BeautifulMatrix.dll
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.pdb
+D:\Codeforces\Codeforces.com\CodeForcesAssignment\BeautifulMatrix\obj\Debug\net5.0\BeautifulMatrix.genruntimeconfig.cache
