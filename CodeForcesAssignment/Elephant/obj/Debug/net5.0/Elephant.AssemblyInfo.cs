@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Elephant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dda14589cbe083bebcad536c1b5aaa61b04dc81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Elephant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Elephant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

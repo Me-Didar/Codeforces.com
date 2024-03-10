@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj": {}
+    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj": {}
   },
   "projects": {
-    "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj": {
+    "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj",
+        "projectUniqueName": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj",
         "projectName": "InSearchofanEasyProblem",
-        "projectPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj",
-        "packagesPath": "C:\\Users\\didarul.islam\\.nuget\\packages\\",
-        "outputPath": "D:\\Codeforces\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\obj\\",
+        "projectPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\InSearchofanEasyProblem.csproj",
+        "packagesPath": "C:\\Users\\ITWALA\\.nuget\\packages\\",
+        "outputPath": "D:\\CodeForce.Com\\Codeforces.com\\CodeForcesAssignment\\InSearchofanEasyProblem\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\didarul.islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ITWALA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -45,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
