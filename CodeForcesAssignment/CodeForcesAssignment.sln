@@ -49,9 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Magnets", "Magnets\Magnets.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautifulMatrix", "BeautifulMatrix\BeautifulMatrix.csproj", "{2C10D689-89A6-416E-9323-365041C055BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem27StonesontheTable", "Problem27StonesontheTable\Problem27StonesontheTable.csproj", "{545695A0-DBCD-4288-A522-9EC9111E6457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem27StonesontheTable", "Problem27StonesontheTable\Problem27StonesontheTable.csproj", "{545695A0-DBCD-4288-A522-9EC9111E6457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem28Twins", "Problem28Twins\Problem28Twins.csproj", "{1B526ACB-CFD1-4EF4-BF94-6D7A49D3D8EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem28Twins", "Problem28Twins\Problem28Twins.csproj", "{1B526ACB-CFD1-4EF4-BF94-6D7A49D3D8EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem29DominoPiling", "DominoPiling\Problem29DominoPiling.csproj", "{44024F08-B040-4CC5-8F79-5AC49D312BCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{1B526ACB-CFD1-4EF4-BF94-6D7A49D3D8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B526ACB-CFD1-4EF4-BF94-6D7A49D3D8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B526ACB-CFD1-4EF4-BF94-6D7A49D3D8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44024F08-B040-4CC5-8F79-5AC49D312BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44024F08-B040-4CC5-8F79-5AC49D312BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44024F08-B040-4CC5-8F79-5AC49D312BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44024F08-B040-4CC5-8F79-5AC49D312BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

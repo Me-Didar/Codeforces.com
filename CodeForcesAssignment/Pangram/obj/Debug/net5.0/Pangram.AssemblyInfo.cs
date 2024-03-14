@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pangram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dda14589cbe083bebcad536c1b5aaa61b04dc81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dd135965e45d9381d4053e3e11c780687c55474")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pangram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pangram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
